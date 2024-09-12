@@ -1,0 +1,84 @@
+# Ignore build directory
+/build/
+
+# Ignore compiled object files
+*.o
+*.obj
+
+# Ignore compiled dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Ignore compiled static libraries
+*.a
+*.lib
+
+# Ignore executables
+*.exe
+*.out
+*.app
+
+# Ignore Qt-specific files
+*.pro.user
+*.pro.user.*
+*.qbs.user
+*.qbs.user.*
+*.moc
+moc_*.cpp
+moc_*.h
+qrc_*.cpp
+ui_*.h
+Makefile*
+*build-*
+
+# Ignore CMake files
+CMakeCache.txt
+CMakeFiles
+CMakeScripts
+Testing
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore temporary files
+*.tmp
+*.temp
+*.swp
+*~
+
+# Ignore debug files
+*.dSYM/
+
+# Ignore log files
+*.log
+
+# Project-specific ignores
+/resources/high_scores.csv
+
+# Optional: Uncomment if you want to ignore all CSV files in the questions directory
+# /resources/questions/*.csv
+
+# Optional: Uncomment if you want to ignore all files in the lib directory
+# /lib/*
+
+# Keep the lib directory itself
+!lib/.gitkeep
+
+# Ignore any potential backup files
+*.bak
+
+# Ignore potential documentation build outputs
+/docs/_build/

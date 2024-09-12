@@ -1,0 +1,6 @@
+/home/samuel/Desktop/TrivialPursuitGame/build/CMakeFiles/TrivialPursuitGame.dir
+/home/samuel/Desktop/TrivialPursuitGame/build/CMakeFiles/TrivialPursuitGameTests.dir
+/home/samuel/Desktop/TrivialPursuitGame/build/CMakeFiles/edit_cache.dir
+/home/samuel/Desktop/TrivialPursuitGame/build/CMakeFiles/rebuild_cache.dir
+/home/samuel/Desktop/TrivialPursuitGame/build/CMakeFiles/TrivialPursuitGame_autogen.dir
+/home/samuel/Desktop/TrivialPursuitGame/build/CMakeFiles/TrivialPursuitGameTests_autogen.dir

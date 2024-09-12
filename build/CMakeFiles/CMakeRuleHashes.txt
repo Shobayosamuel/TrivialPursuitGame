@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+88a89aa17f5bd687cbdd42fa0a2a5ae7 CMakeFiles/TrivialPursuitGameTests_autogen
+09af5161b2c69ca1191e4d03ce0180ff CMakeFiles/TrivialPursuitGame_autogen
